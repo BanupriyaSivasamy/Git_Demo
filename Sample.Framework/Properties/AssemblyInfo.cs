@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TestAutomation_Framework")]
+[assembly: AssemblyTitle("Sample.Framework")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TestAutomation_Framework")]
+[assembly: AssemblyProduct("Sample.Framework")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("21b7f7b8-a043-42ef-a040-dbe069502d70")]
+[assembly: Guid("232d5c74-f28e-4500-8a7f-3675f5830362")]
 
 // Version information for an assembly consists of the following four values:
 //

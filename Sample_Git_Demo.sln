@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33214.272
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomation.Framework", "TestAutomation.Framework.csproj", "{21B7F7B8-A043-42EF-A040-DBE069502D70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Framework", "..\Sample_Git_Demo\Sample.Framework\Sample.Framework.csproj", "{21B7F7B8-A043-42EF-A040-DBE069502D70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomation.Pages", "..\TestAutomation_Pages\TestAutomation.Pages.csproj", "{5AA495B3-747F-4E3F-B0F7-B0EDF3E99C31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Pages", "..\Sample_Git_Demo\Sample.Pages\Sample.Pages.csproj", "{5AA495B3-747F-4E3F-B0F7-B0EDF3E99C31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomation.Test", "..\TestAutomation.Test\TestAutomation.Test.csproj", "{F1FE8B83-0640-4E73-A0BC-C7BBAEDE9674}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Test", "..\Sample_Git_Demo\Sample.Test\Sample.Test.csproj", "{F1FE8B83-0640-4E73-A0BC-C7BBAEDE9674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
