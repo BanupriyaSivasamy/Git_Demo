@@ -8,5 +8,6 @@ namespace Sample.Pages
 {
     public class Class1
     {
+        //Commet
     }
 }
