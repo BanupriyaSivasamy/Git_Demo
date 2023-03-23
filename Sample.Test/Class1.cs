@@ -8,5 +8,6 @@ namespace Sample.Test
 {
     public class Class1
     {
+        //comment
     }
 }
